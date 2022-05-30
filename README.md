@@ -1,4 +1,17 @@
 # speak English
+![](https://img.shields.io/github/contributors/wwwwwalter/speak-English?color=BrightGreen)
+![](https://img.shields.io/github/issues-pr/wwwwwalter/speak-English)
+![](https://img.shields.io/github/issues-pr-closed/wwwwwalter/speak-English)
+![](https://img.shields.io/github/issues/wwwwwalter/speak-English)
+![](https://img.shields.io/github/issues-closed/wwwwwalter/speak-English)
+![](https://img.shields.io/github/release/wwwwwalter/speak-English)
+![](https://img.shields.io/github/last-commit/wwwwwalter/speak-English)
+![](https://img.shields.io/github/repo-size/wwwwwalter/speak-English)
+![](https://img.shields.io/github/stars/wwwwwalter/speak-English)
+[![github-watchers](https://img.shields.io/github/watchers/wwwwwalter/speak-English?label=Watch&style=social&logo=github)](https://github.com/wwwwwalter/speak-English)
+[![github-stars](https://img.shields.io/github/stars/wwwwwalter/speak-English?style=social&logo=github)](https://github.com/wwwwwalter/speak-English)
+[![github-forks](https://img.shields.io/github/forks/wwwwwalter/speak-English?label=Fork&style=social&logo=github)](https://github.com/wwwwwalter/speak-English)
+
 
 Author: :boy:Albert  :email:  15221024927@163.com, C/C++ software engineer.
 
@@ -21,6 +34,9 @@ Let's speak English.
   * [GitHub](https://docs.github.com/cn/get-started/quickstart/hello-world)
   * [Typora](https://pan.baidu.com/s/1L29j-3L2CfjRi2U7VFhT7Q?pwd=vc7p)
   * [Markdown](https://www.jianshu.com/p/191d1e21f7ed)
+
+![Alt](https://repobeats.axiom.co/api/embed/9c50b99a812a391f8bf366e38dc3691ca033a4e9.svg "Repobeats analytics image")
+
 ---
 **Step 1: GIt configuration** 
 
